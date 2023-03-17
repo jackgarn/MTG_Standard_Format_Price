@@ -1,0 +1,3 @@
+The decklist cleaning code automates the re-rwiting of downloaded MTGGoldfish decklists to csv files that can be easily used by pandas.
+It still needs a little work to be more applicable to general decklists and to be able to do a batch of files, but I wrote it after already doing
+most of the decklists by hand, so it was more of a quck fix than generalizable code.  Nonetheless, still nice to have for reference.
